@@ -1,4 +1,5 @@
-# [LearnSolidity](https://youtu.be/RQzuQb0dfBM)
+# LearnSolidity
+[where I learn this from](https://youtu.be/RQzuQb0dfBM)
 
 basics of Solidity. I'll explain each topic with simple examples to help you understand.
 
